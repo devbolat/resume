@@ -1,0 +1,9 @@
+- name: Awesome CV Builder
+  # You may pin to the exact commit or the version.
+  # uses: olivierodo/Awesome-CV-action@8a6c8c427eabc4ce8c711630f59cdee5c9891a75
+  uses: olivierodo/Awesome-CV-action@0.0.1
+  with:
+    # The filename of your latex document within your repository (Ex: resume.tex)
+    FILE_NAME: 
+    # Define if you want the action to create a latest tag, allowing you to the latest document though a single tag named "latest" (default: true)
+    LATEST_TAG: 
